@@ -7,6 +7,6 @@ public class HelloWorldApp extends AbstractCyApp{
 	public HelloWorldApp(CyAppAdapter adapter){
 		super(adapter);
 		
-		System.out.println("Hello Cytoscape 3!");
+		System.out.println("Hello Cytoscape 3!"); // print statement
 	}
 }
